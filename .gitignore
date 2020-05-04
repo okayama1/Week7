@@ -1,5 +1,9 @@
 # Object file
 *.o
 
+# Other files
+.log
+
 # Ada Library Information
 *.ali
+.Rproj.user
